@@ -18,7 +18,7 @@ No Clear Frequency Rise: The number of earthquakes fluctuated yearly without a s
 
 🧠 Tools & Libraries
 
-Python, Pandas, Matplotlib, Seaborn, Plotly
+Python, Pandas, Matplotlib, Seaborn
 
 📁 Includes
 
